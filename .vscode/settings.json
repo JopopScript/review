@@ -1,0 +1,15 @@
+{
+  "cSpell.words": [
+    "handybot",
+    "nestjs"
+  ],
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": [
+    "source.organizeImports",
+    "source.fixAll",
+  ],
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  }
+}
